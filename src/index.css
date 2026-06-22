@@ -483,3 +483,8 @@ a:hover {
     padding: 24px;
   }
 }
+/* Small polish */
+.container p a {
+  color: var(--primary);
+  text-decoration: underline;
+}
